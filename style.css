@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 50px;
+}
+.categories{
+    margin-top: 100px;
+
+}
+.boxes{
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+.bag{
+    height: 200px;
+    width: 200px;
+}
+
+.bg-color{
+    background-color: rgb(228, 228, 228);
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, rgb(255, 186, 58), rgb(255, 97, 23));
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.card{
+    border: none; 
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: rgb(238, 238, 238);
+    border-top: none;
+}
